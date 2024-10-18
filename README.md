@@ -9,8 +9,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a Senior computer science undergraduate at University of the Philippines Tacloban College 
-- :seedling: Exploring Ruby on Rails
+- :telescope: I’m a Senior computer science undergraduate student at University of the Philippines Tacloban College 
+- :seedling: Exploring Data Science
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
